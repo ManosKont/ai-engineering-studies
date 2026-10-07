@@ -1,1 +1,1 @@
-# ai-engineering-studies.
+# ai-engineering-studies
